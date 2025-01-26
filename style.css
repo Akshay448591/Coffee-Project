@@ -49,7 +49,7 @@ li a:hover{
 
 /* header start */
 .header{
-    background: url(images/pexels-natri-129207.jpg);
+    background: url("images/pexels-natri-129207.jpg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -99,7 +99,7 @@ li a:hover{
 .img{
     width: 400px;
     height: 400px;
-    background: url(images/pexels-raymond-petrik-1448389535-28320963-removebg-preview.png);
+    background: url("images/pexels-raymond-petrik-1448389535-28320963-removebg-preview.png");
     background-position: center;
     background-size: cover;
 }
@@ -193,19 +193,19 @@ li a:hover{
     top: -60px;
 }
 .img-one{
-    background: url(images/pexels-product1.jpg);
+    background: url("images/pexels-product1.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 50%;
 }
 .img-two{
-    background: url(images/product2.jpg);
+    background: url("images/product2.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 50%;
 }
 .img-three{
-    background: url(images/product3.jpg);
+    background: url("images/product3.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 50%;
